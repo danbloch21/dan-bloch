@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dan-bloch/static/css/main.f00b9c1a.chunk.css",
+    "main.js": "/dan-bloch/static/js/main.be111fb5.chunk.js",
+    "main.js.map": "/dan-bloch/static/js/main.be111fb5.chunk.js.map",
+    "runtime-main.js": "/dan-bloch/static/js/runtime-main.1a8678e6.js",
+    "runtime-main.js.map": "/dan-bloch/static/js/runtime-main.1a8678e6.js.map",
+    "static/js/2.8ab9d8d5.chunk.js": "/dan-bloch/static/js/2.8ab9d8d5.chunk.js",
+    "static/js/2.8ab9d8d5.chunk.js.map": "/dan-bloch/static/js/2.8ab9d8d5.chunk.js.map",
+    "static/js/3.d1be1cae.chunk.js": "/dan-bloch/static/js/3.d1be1cae.chunk.js",
+    "static/js/3.d1be1cae.chunk.js.map": "/dan-bloch/static/js/3.d1be1cae.chunk.js.map",
+    "index.html": "/dan-bloch/index.html",
+    "static/css/main.f00b9c1a.chunk.css.map": "/dan-bloch/static/css/main.f00b9c1a.chunk.css.map",
+    "static/js/2.8ab9d8d5.chunk.js.LICENSE.txt": "/dan-bloch/static/js/2.8ab9d8d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a8678e6.js",
+    "static/js/2.8ab9d8d5.chunk.js",
+    "static/css/main.f00b9c1a.chunk.css",
+    "static/js/main.be111fb5.chunk.js"
+  ]
+}
